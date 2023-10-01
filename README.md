@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# Notification Panel Frontend Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Notification Panel](https://github.com/shivam-kumar-shah/notification-frontend/assets/134827809/f6ce6f88-55d9-4e79-8866-2c0387f60efb)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+The Notification Panel Frontend Application is a practice project built using React and SCSS. It simulates a notification system, allowing users to view and interact with notifications. This project serves as an excellent exercise for developers looking to enhance their skills in React development and CSS styling.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **View Notifications**: Users can see a list of notifications with details.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Interact with Notifications**: Clicking on a notification may lead to a specific action or display additional information.
 
-### `npm test`
+- **Clear Notifications**: Users can clear notifications from the panel.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Demo
 
-### `npm run build`
+Check out the live demo [here](https://github.com/shivam-kumar-shah/notification-frontend).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Getting Started
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To run the Notification Panel Frontend Application locally, follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository from [GitHub Repo](https://github.com/shivam-kumar-shah/notification-frontend).
+2. Install the required dependencies using `npm install`.
+3. Start the application using `npm start`.
 
-### `npm run eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Launch the application and navigate to the notification panel.
+2. Interact with the notifications as needed.
+3. Clear notifications when no longer needed.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Technologies Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- React
+- SCSS
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Deployment
 
-## Learn More
+This project is hosted on GitHub and can be accessed at [https://github.com/shivam-kumar-shah/notification-frontend](https://github.com/shivam-kumar-shah/notification-frontend).
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions are welcome! If you have any ideas, bug fixes, or improvements, please open an issue or submit a pull request.
 
-### Code Splitting
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+For any inquiries or feedback, feel free to contact us at [shivam-kumar-shah@outlook.com](mailto:shivam-kumar-shah@outlook.com).
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*Happy Coding!* 🚀
